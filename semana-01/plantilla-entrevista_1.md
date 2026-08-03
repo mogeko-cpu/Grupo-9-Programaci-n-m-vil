@@ -3,11 +3,13 @@
 ## Información del equipo
 
 **Nombre del equipo:**
-[Nombre del equipo]
+Grupo 9
 
 **Integrantes:**
-[Integrantes del equipo]
-
+GONZALEZ QUINTANILLA, SEBASTIAN
+RUIZ ESPITIA, KEVIN
+SANTIAGO CABALLERO, ALEJANDRO
+TRIANA MARTINEZ, LEONEL
 ---
 
 ## Información del entrevistado
