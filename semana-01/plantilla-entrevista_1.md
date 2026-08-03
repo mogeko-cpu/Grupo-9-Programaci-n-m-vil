@@ -6,11 +6,11 @@
 Grupo 9
 
 **Integrantes:**
-GONZALEZ QUINTANILLA, SEBASTIAN
-RUIZ ESPITIA, KEVIN
-SANTIAGO CABALLERO, ALEJANDRO
-TRIANA MARTINEZ, LEONEL
----
+
+* Sebastián González Quintanilla
+* Kevin Ruiz Espitia
+* Alejandro Santiago Caballero
+* Leonel Triana Martínez
 
 ## Información del entrevistado
 
