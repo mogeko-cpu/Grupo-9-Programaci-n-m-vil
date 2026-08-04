@@ -2,8 +2,6 @@
 
 ## Información del equipo
 
-**Nombre del equipo:** Eficiencia Operativa
-
 **Integrantes:** Sebastián González Quintanilla, Kevin Ruiz Espitia, Alejandro Santiago Caballero, Leonel Triana Martínez
 
 
