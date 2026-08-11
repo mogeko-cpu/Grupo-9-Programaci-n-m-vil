@@ -12,11 +12,11 @@
 
 ¿Qué tipos de usuarios revisó el equipo esta semana?
 
-- 
+-
 
-- 
+-
 
-- 
+-
 
 ---
 
@@ -48,11 +48,11 @@
 
 ¿Qué cosas parecían importantes para unos usuarios, pero no para otros?
 
-- 
+-
 
-- 
+-
 
-- 
+-
 
 ---
 
@@ -74,11 +74,11 @@ Completen la frase:
 
 ¿Qué impide hoy que los usuarios resuelvan bien este problema?
 
-- 
+-
 
-- 
+-
 
-- 
+-
 
 ---
 
