@@ -89,10 +89,12 @@ Seleccionen entre 2 y 4 flujos para trabajar esta semana.
 
 ### Flujo 4
 
-**Nombre del flujo:**
+**Nombre del flujo:** Recibir mentoría y conectar con aliados externos
 
 **¿Qué quiere lograr el usuario en este flujo?**
 
+El equipo quiere solicitar acompañamiento de un mentor o experto para recibir orientación. También quiere conocer retos planteados por aliados externos (empresarios, organizaciones) que puedan adoptar como proyectos.
+
 **¿Por qué este flujo es importante?**
 
-> Si el equipo solo va a trabajar 2 o 3 flujos, puede dejar vacío el último.
+Aborda dos hallazgos clave: la necesidad de acompañamiento (recurrente en todas las entrevistas) y la oportunidad de conectar problemas reales externos con estudiantes (hallazgo de Rubén D.). Este flujo da sentido y dirección a los proyectos más allá del entorno académico.
