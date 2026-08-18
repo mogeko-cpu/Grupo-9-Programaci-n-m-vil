@@ -188,33 +188,47 @@ El usuario quiere encontrar estudiantes con habilidades, conocimientos o interes
 
 ### Evidencia en Figma
 
-**Enlace versión A:**
+**Enlace versión A:** https://www.figma.com/make/GVNQ7wedkTnSs9JLIzsiHd/Dashboard-para-proyecto-estudiantil?t=vCvt0km1hYyPAqxm-1
 
-**Enlace versión B:**
+**Enlace versión B:** https://www.figma.com/make/Z4XZFwEI0aJUzLTRdlqtBJ/FLUX-3-VERSION-B?t=vCvt0km1hYyPAqxm-1
 
 ### Resultado de la validación exploratoria
 
 **¿Con quién se probó este flujo?**
 
+Adriana N. (estudiante con experiencia en proyectos que fracasaron por falta de estructura) y Alvaro A. (estudiante sin experiencia en innovación).
+
 **¿Qué reacción generó la versión A?**
 
--
--
-- **¿Qué reacción generó la versión B?**
+- "Esto es realista y fácil de empezar. Con tener roles y tareas con fecha, ya es más de lo que tenía antes."
 
--
--
--
+- "Me da la estructura básica que necesito sin complicarme. No me abruma con demasiada información."
+
+- "Es suficiente para un equipo que está empezando y no quiere perder tiempo configurando herramientas complejas."
+
+**¿Qué reacción generó la versión B?**
+
+- "Esto es más completo y profesional, pero puede ser mucho para un equipo que empieza."
+
+- "El tablero de progreso y el historial de avances son muy útiles para saber quién está aportando realmente."
+
+- "Me gusta que cada tarea tenga un entregable asociado, eso obliga a concretar el trabajo, pero también agrega más pasos al proceso."
 
 ### Versión seleccionada para la semana 4
 
-**Versión elegida:**
+**Versión elegida:** Versión A
 
 **¿Por qué?**
 
--
--
-- ***
+- La validación mostró que los equipos en fases iniciales necesitan una estructura sencilla para no sentirse abrumados y poder empezar rápidamente.
+
+- La Versión A ofrece lo esencial: roles, tareas y fechas. Es suficiente para comenzar a organizarse sin generar fricción.
+
+- La complejidad adicional de la Versión B (entregables, reporte de avance con evidencia, tablero de progreso detallado, historial de versiones) puede añadirse como funcionalidad avanzada cuando el proyecto madure.
+
+- La prioridad en esta etapa es la adopción temprana; empezar simple es clave para que los equipos usen la herramienta sin resistencia.
+
+- La Versión A permite que el equipo "aprenda haciendo" y vaya incorporando más estructura de manera gradual, en lugar de imponerla desde el inicio.
 
 ## Flujo 4
 
