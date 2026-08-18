@@ -2,11 +2,9 @@
 
 ## Información del equipo
 
-**Nombre del equipo:**
+**Nombre del equipo:** Grupo 9
 
-**Integrantes:**
-
----
+**Integrantes:** Sebastián González Quintanilla, Kevin Ruiz Espitia, Alejandro Santiago Caballero, Leonel Triana Martínez
 
 ## Flujos seleccionados
 
@@ -22,11 +20,15 @@ Registren los flujos que el equipo decidió trabajar esta semana.
 
 ### Flujo 2
 
-**Nombre del flujo:**
+**Nombre del flujo:** Unirse y formar equipo
 
 **¿Por qué merece prioridad?**
 
+Aborda el hallazgo recurrente de que los estudiantes solo forman equipos con personas de su círculo cercano (Ana María A.: "optaría por personas que ya conozco"). Este flujo amplía el espectro de colaboración y permite la formación de equipos multidisciplinarios.
+
 **¿Qué pasaría si este flujo no funciona bien?**
+
+Los equipos seguirían siendo homogéneos y limitados a una sola facultad. Los estudiantes no encontrarían colaboradores con habilidades complementarias, y la calidad de los proyectos se vería afectada.
 
 ### Flujo 3
 
@@ -56,29 +58,31 @@ Registren los flujos que el equipo decidió trabajar esta semana.
 - Frecuencia de uso
 - Valor para el sistema
 - Riesgo o incertidumbre
-- Otro:
+- Viabilidad técnica
 
 Expliquen brevemente:
 
-- 
+- **Impacto para el usuario:** Los cuatro flujos abordan necesidades directamente expresadas por los entrevistados (visibilidad, conexión, estructura, acompañamiento).
 
-- 
+- **Valor para el sistema:** Sin estos flujos, la plataforma no cumpliría su función central: conectar personas, sostener proyectos y vincular con el entorno externo.
 
-- 
+- **Riesgo o incertidumbre:** Los flujos 3 y 4 tienen mayor incertidumbre porque requieren cambios en la dinámica de trabajo de los equipos y en la relación con aliados externos. Por eso merecen ser prototipados y validados.
 
----
+- **Viabilidad técnica:** Los cuatro flujos son técnicamente viables con herramientas de desarrollo web estándar. La complejidad principal está en el diseño de experiencia de usuario, no en la tecnología.
+
 
 ## Validación exploratoria por flujo
 
 ¿Con quién validaron los prototipos de baja resolución?
 
-- Usuario potencial
-- Compañero
-- Otro:
+- Usuario potencial: Andrés P. (estudiante con experiencia en proyectos que fracasaron)
+- Usuario potencial: Jeison A. (estudiante sin experiencia en innovación)
+- Compañero: Estudiante de ingeniería, sin participación previa en el proyecto
+- Otro: Egresada Ana María A. (experiencia en proyectos de innovación)
 
 ¿Cuántas personas participaron en total?
 
-**Cantidad:**
+**Cantidad:** 4
 
 ### Flujo 1
 
@@ -99,16 +103,15 @@ Expliquen brevemente:
 
 **¿Qué aprendieron al comparar las dos versiones de este flujo?**
 
-- 
+- La Versión A (aceptación directa) fue percibida como más rápida, pero generó preocupación: "¿cómo sé si la persona es confiable si solo digo que sí?".
 
-- 
+- La Versión B (charlas rápidas con preguntas) fue valorada como "más humana", pero los usuarios expresaron que "si tengo que hacer esto con cada solicitud, se vuelve pesado".
 
-- 
+- El equipo aprendió que el proceso necesita un equilibrio: una etapa de filtro breve (preguntas estandarizadas) antes de la conversación directa, evitando la aceptación automática sin ningún tipo de validación.
 
 **¿Qué versión pasa a la semana 4?**
 
-- Versión A
-- Versión B
+- Versión B (con ajuste: incorporar un filtro breve de preguntas antes de la charla)
 
 ### Flujo 3
 
@@ -143,19 +146,13 @@ Expliquen brevemente:
 
 ¿Qué flujos y qué versiones pasan a la semana 4?
 
----
+- **Flujo 2 - Unirse y formar equipo:** Versión B (charlas rápidas con filtro previo de preguntas)
 
 ## Razones de la decisión
 
 ¿Por qué estas decisiones parecen las mejores para avanzar después de la validación exploratoria?
 
-- 
-
-- 
-
-- 
-
----
+- **Flujo 2 (Versión B):** La validación reveló que la confianza es un factor crítico en la formación de equipos. La aceptación directa (Versión A) genera incertidumbre. La versión B, con su filtro de preguntas, ofrece un equilibrio entre agilidad y validación.
 
 ## Riesgos que siguen abiertos
 
@@ -167,14 +164,16 @@ Expliquen brevemente:
 
 - 
 
----
-
 ## Hipótesis iniciales para la semana 4
-
-Completen las frases:
 
 `Creemos que los usuarios valorarán...`
 
+...la rapidez y claridad en la exploración de ideas (Flujo 1), la confianza y validación previa al formar equipos (Flujo 2), la estructura simple que les permita organizarse sin sentirse abrumados (Flujo 3), y el acompañamiento personalizado que les dé dirección (Flujo 4).
+
 `Creemos que los usuarios usarán esta solución porque...`
 
+...resuelve las barreras que ellos mismos identificaron: visibilidad de ideas, conexión con colaboradores, estructura para sostener equipos y acompañamiento para avanzar. La plataforma les ofrece un camino claro que hoy no existe.
+
 `Sabremos que vamos por buen camino si...`
+
+...los usuarios completan los flujos sin ayuda externa, expresan que "esto es lo que necesitaba" durante las pruebas, y solicitan funciones adicionales que muestran que ya están pensando en el siguiente paso de su proyecto.
