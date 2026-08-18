@@ -13,7 +13,7 @@
 
 ## Flujo 1
 
-**Nombre del flujo:** Explorar y unirse
+**Nombre del flujo:** Publicar y explorar ideas
 
 **¿Qué quiere lograr el usuario en este flujo?**
 
@@ -83,69 +83,72 @@ Se probo con un estudiante universitario interesado en entrar a proyectos de inn
 
 ## Flujo 2
 
-**Nombre del flujo:** Publicar una idea o proyecto
+**Nombre del flujo:** Unirse y formar equipo
 
 **¿Qué quiere lograr el usuario en este flujo?**
 
-El usuario quiere hacer visible una idea de innovación o un proyecto existente para encontrar personas interesadas, colaboradores con habilidades complementarias y posibles oportunidades de desarrollo.
+El usuario que publicó una idea quiere evaluar a los interesados y formar un equipo. El usuario que busca unirse quiere encontrar un proyecto que le interese y ser aceptado como colaborador. Ambos quieren un proceso que genere confianza mutua.
 
 ### Versión A: paso a paso
 
-1. El usuario selecciona la opción **Crear proyecto**.
-2. Luego completa un proceso dividido en diferentes pasos para describir el problema, la idea y el objetivo.
-3. Después indica qué habilidades, carreras o perfiles necesita para desarrollar el proyecto.
-4. Finalmente, revisa la información y publica el proyecto dentro de la plataforma.
+1. El usuario interesado hace clic en "Quiero unirme".
+2. El creador de la idea recibe una notificación.
+3. El creador revisa el perfil del interesado y decide aceptar o rechazar.
+4. Si acepta, el interesado queda como colaborador del proyecto.
 
 ### Versión A: pantallas o momentos clave
 
-1. **Crear proyecto:** pantalla inicial para comenzar una nueva publicación.
-2. **Describir la idea:** información sobre el problema, propuesta y objetivo.
-3. **Buscar colaboradores:** selección de habilidades y perfiles necesarios.
-4. **Revisar y publicar:** resumen de la información antes de hacer visible el proyecto.
+1. Botón "Quiero unirme" en la vista de detalle de la idea.
+2. Notificación al creador.
+3. Perfil del interesado visible para el creador.
+4. Botón "Aceptar" o "Rechazar" en la notificación.
 
 ### Versión B: paso a paso
 
-1. El usuario selecciona la opción **Publicar una idea**.
-2. Luego accede a una única pantalla donde puede completar toda la información principal.
-3. Después agrega la descripción de su idea, el problema que busca resolver y los colaboradores que necesita.
-4. Finalmente, decide guardar la publicación como borrador o publicarla inmediatamente.
+1. El usuario interesado hace clic en "Quiero unirme".
+2. El sistema le presenta preguntas breves (motivación, habilidades, disponibilidad).
+3. El interesado responde y su solicitud queda registrada.
+4. El creador de la idea recibe la solicitud con las respuestas.
+5. El creador puede revisar las respuestas y aceptar o iniciar una charla rápida.
 
 ### Versión B: pantallas o momentos clave
 
-1. **Nueva idea:** pantalla única de creación.
-2. **Descripción:** campos para explicar el problema y la propuesta.
-3. **Colaboradores buscados:** selección de habilidades o perfiles requeridos.
-4. **Guardar o publicar:** acciones finales para conservar o hacer visible la idea.
+1. Botón "Quiero unirme" en la vista de detalle de la idea.
+2. Formulario breve de preguntas (3-4 preguntas).
+3. Notificación al creador con las respuestas.
+4. Opción de "Aceptar" o "Iniciar charla" en la notificación.
 
 ### Evidencia en Figma
 
-**Enlace versión A:**
-
-**Enlace versión B:**
+**Enlace versión A y B:** https://www.figma.com/proto/hKmWft9fvVXLDzbjLlOsb6/Versiones-A-y-B---Flujo-2?node-id=2-9&p=f&t=ZbLndCwJojENk9Qm-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=2%3A9
 
 ### Resultado de la validación exploratoria
 
 **¿Con quién se probó este flujo?**
 
+Ana María A. (egresada con experiencia en proyectos de innovación) y un compañero estudiante de ingeniería.
+
 **¿Qué reacción generó la versión A?**
 
--
--
-- **¿Qué reacción generó la versión B?**
+- "Es rápida, pero no sé si la persona es confiable."
+- "Aceptar a alguien sin conocerlo es un salto de fe."
+- "Me preocupa que alguien se una y luego no aporte nada."
 
--
--
--
+**¿Qué reacción generó la versión B?**
+
+- "Las preguntas me ayudan a saber si la persona realmente está interesada."
+- "Tener un filtro previo hace que el proceso sea más humano."
+- "Si tengo que responder esto para cada solicitud, se vuelve tedioso."
 
 ### Versión seleccionada para la semana 4
 
-**Versión elegida:**
+**Versión elegida:** Versión B (con ajuste)
 
 **¿Por qué?**
 
--
--
-- ***
+- La validación mostró que la confianza es un factor crítico en la formación de equipos.
+- La Versión B reduce la incertidumbre al proporcionar información relevante antes de la decisión.
+- Se ajustará la versión B para incluir un filtro breve (máximo 3 preguntas) para evitar que el proceso se vuelva tedioso, manteniendo el equilibrio entre agilidad y validación.
 
 ## Flujo 3
 
