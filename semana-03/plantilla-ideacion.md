@@ -2,17 +2,15 @@
 
 ## Información del equipo
 
-**Nombre del equipo:**
+**Nombre del equipo:** Grupo 9
 
-**Integrantes:**
+**Integrantes:** Sebastián González Quintanilla, Kevin Ruiz Espitia, Alejandro Santiago Caballero, Leonel Triana Martínez
 
----
 
 ## Recordatorio del problema
 
-Escriban su POV o problema en una sola frase.
+Un estudiante universitario con una idea de innovación, o que busca unirse a un proyecto existente, necesita un ecosistema que le ofrezca visibilidad, conexión con equipos multidisciplinarios, acompañamiento y estructura para sostener el compromiso a lo largo del tiempo, porque el sistema actual no le da un camino claro desde la idea hasta el proyecto sostenible, los equipos se disuelven silenciosamente cuando desaparece la presión externa y el trabajo acumulado se pierde por falta de un repositorio común.
 
----
 
 ## Pregunta guía
 
@@ -20,44 +18,32 @@ Completen esta estructura:
 
 `¿Cómo podríamos...?`
 
-Ejemplo:
+**¿Cómo podríamos ofrecer un ecosistema que permita a los estudiantes publicar ideas, formar equipos multidisciplinarios y sostener proyectos de innovación más allá de la fase inicial, reduciendo la deserción silenciosa y la pérdida de trabajo acumulado?**
 
-`¿Cómo podríamos ayudar a los estudiantes a encontrar personas interesadas en sus ideas?`
-
----
 
 ## Flujos posibles de la aplicación
 
 Antes de elegir, piensen en los posibles flujos o recorridos que podría tener la aplicación.
 
-Ejemplos de flujo:
+1. **Publicar una idea:** El usuario describe su idea, la categoriza y la hace visible para la comunidad.
 
-- Proponer una idea.
-- Explorar ideas de otros estudiantes.
-- Unirse a una idea.
-- Formar equipo.
-- Publicar un prototipo.
-- Recibir apoyo o respuestas de la comunidad.
+2. **Explorar ideas de otros:** El usuario navega por un catálogo de ideas publicadas y filtra por categorías, habilidades requeridas o estado del proyecto.
 
-Registren al menos 6 flujos posibles.
+3. **Unirse a una idea:** El usuario expresa interés en unirse a un proyecto existente y solicita ser considerado como colaborador.
 
-1.
+4. **Formar equipo:** El usuario que publicó una idea revisa las solicitudes de colaboración y acepta a los miembros de su equipo, asignando roles.
 
-2.
+5. **Estructurar el proyecto:** El equipo define roles explícitos, establece entregas con fecha y distribuye tareas de manera equitativa.
 
-3.
+6. **Gestionar el avance:** El equipo registra el progreso del proyecto, visualiza el aporte de cada integrante y mantiene un repositorio común de archivos.
 
-4.
+7. **Recibir mentoría:** El equipo solicita acompañamiento de un mentor o experto para recibir orientación en etapas tempranas.
 
-5.
+8. **Conectar con aliados externos:** La plataforma presenta retos planteados por aliados externos (empresarios, organizaciones) que los equipos pueden adoptar como proyectos.
 
-6.
+9. **Declarar el cierre o abandono:** Un integrante puede retirarse formalmente del equipo sin costo social, y el equipo puede declarar el fin del proyecto de manera explícita.
 
-7.
-
-8.
-
----
+10. **Preservar el trabajo:** El equipo sube archivos y avances a un repositorio común que no depende del computador personal de un integrante.
 
 ## Flujos priorizados
 
@@ -73,11 +59,15 @@ Seleccionen entre 2 y 4 flujos para trabajar esta semana.
 
 ### Flujo 2
 
-**Nombre del flujo:**
+**Nombre del flujo:** Unirse y formar equipo
 
 **¿Qué quiere lograr el usuario en este flujo?**
 
+El usuario que publicó una idea quiere evaluar a los interesados y formar un equipo multidisciplinario. El usuario que busca unirse quiere encontrar un proyecto que le interese y ser aceptado como colaborador.
+
 **¿Por qué este flujo es importante?**
+
+Aborda el hallazgo recurrente de que los estudiantes solo forman equipos con personas de su círculo cercano. Este flujo crea un puente entre estudiantes de diferentes carreras, aumentando la diversidad disciplinaria de los equipos.
 
 ### Flujo 3
 
