@@ -129,18 +129,15 @@ Expliquen brevemente:
 
 **¿Qué aprendieron al comparar las dos versiones de este flujo?**
 
-- 
+- La Versión A (acceso directo a lista de mentores) fue percibida como más simple, pero los usuarios se sintieron abrumados al no saber "quién es el adecuado para mi proyecto".
 
-- 
+- La Versión B (cuestionario guiado que recomienda mentores) generó mayor confianza y los usuarios sintieron que "el sistema me entiende mejor", aunque algunos expresaron que "el cuestionario no debería ser muy largo".
 
-- 
+- El equipo aprendió que el emparejamiento mentor-equipo necesita un filtro previo para evitar la sobrecarga de opciones, pero ese filtro debe ser ágil (máximo 4-5 preguntas).
 
 **¿Qué versión pasa a la semana 4?**
 
-- Versión A
 - Versión B
-
----
 
 ## Conclusión de la semana
 
