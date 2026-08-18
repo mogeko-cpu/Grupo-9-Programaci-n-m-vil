@@ -218,64 +218,71 @@ El usuario quiere encontrar estudiantes con habilidades, conocimientos o interes
 
 ## Flujo 4
 
-**Nombre del flujo:**
+**Nombre del flujo:** Recibir mentoría y conectar con aliados externos
 
 **¿Qué quiere lograr el usuario en este flujo?**
 
+El equipo quiere solicitar acompañamiento de un mentor o experto para recibir orientación. También quiere conocer retos planteados por aliados externos (empresarios, organizaciones) que puedan adoptar como proyectos.
+
 ### Versión A: paso a paso
 
-1.
-2.
-3.
-4.
+1. El equipo ingresa a la sección "Mentores".
+2. Ve una lista de mentores disponibles con su perfil y áreas de expertise.
+3. El equipo selecciona un mentor y solicita una sesión.
+4. El mentor acepta y agenda una reunión.
 
 ### Versión A: pantallas o momentos clave
 
-1.
-2.
-3.
-4.
+1. Sección "Mentores" con lista de perfiles.
+2. Perfil de mentor con áreas de expertise.
+3. Botón "Solicitar mentoría".
+4. Confirmación de agendamiento.
 
 ### Versión B: paso a paso
 
-1.
-2.
-3.
-4.
+1. El equipo ingresa a la sección "Mentoría".
+2. El sistema presenta un cuestionario breve sobre el proyecto (área, etapa, necesidades).
+3. El sistema recomienda mentores según las respuestas.
+4. El equipo selecciona un mentor recomendado y solicita una sesión.
 
 ### Versión B: pantallas o momentos clave
 
-1.
-2.
-3.
-4.
+1. Sección "Mentoría" con cuestionario guiado.
+2. Cuestionario de 4-5 preguntas sobre el proyecto.
+3. Pantalla de recomendaciones con mentores sugeridos.
+4. Perfil de mentor con botón "Solicitar mentoría".
 
 ### Evidencia en Figma
 
-**Enlace versión A:**
+**Enlace versión A:** [Enlace a Figma - Versión A]
 
-**Enlace versión B:**
+**Enlace versión B:** [Enlace a Figma - Versión B]
 
 ### Resultado de la validación exploratoria
 
 **¿Con quién se probó este flujo?**
 
+Ana María A. (egresada con experiencia en proyectos de innovación) y Rubén D. (pequeño empresario, aliado externo potencial).
+
 **¿Qué reacción generó la versión A?**
 
--
--
-- **¿Qué reacción generó la versión B?**
+- "Es simple, pero no sé cuál mentor es el adecuado para mi proyecto."
+- "Ver una lista de nombres sin guía me abruma."
+- "Terminaría eligiendo al primero o al que tenga el nombre más parecido a lo que busco."
 
--
--
--
+**¿Qué reacción generó la versión B?**
+
+- "El cuestionario me ayuda a entender qué necesito antes de elegir."
+- "Siento que el sistema me conoce y me recomienda a alguien adecuado."
+- "Es importante que el cuestionario no sea muy largo."
 
 ### Versión seleccionada para la semana 4
 
-**Versión elegida:**
+**Versión elegida:** Versión B
 
 **¿Por qué?**
 
--
--
--
+- La validación demostró que los usuarios valoran el acompañamiento personalizado.
+- Un cuestionario guiado reduce la ansiedad de elegir entre múltiples opciones y genera confianza en el sistema.
+- La versión B también puede adaptarse para conectar con aliados externos, presentando retos recomendados según el perfil del equipo.
+- El cuestionario debe ser ágil (máximo 4-5 preguntas) para no desmotivar al usuario.
