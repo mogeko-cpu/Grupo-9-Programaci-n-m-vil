@@ -121,7 +121,7 @@ El usuario que publicó una idea quiere evaluar a los interesados y formar un eq
 
 ### Evidencia en Figma
 
-**Enlace versión A y B:** https://www.figma.com/proto/hKmWft9fvVXLDzbjLlOsb6/Versiones-A-y-B---Flujo-2?node-id=2-9&p=f&t=ZbLndCwJojENk9Qm-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=2%3A9
+**Enlace versión A y B:** https://www.figma.com/design/hKmWft9fvVXLDzbjLlOsb6/Versiones-A-y-B---Flujo-2?node-id=0-1&t=n1fND3batgd3BcRs-1
 
 ### Resultado de la validación exploratoria
 
