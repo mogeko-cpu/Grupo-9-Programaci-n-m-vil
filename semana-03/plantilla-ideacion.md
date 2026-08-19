@@ -6,11 +6,9 @@
 
 **Integrantes:** Sebastián González Quintanilla, Kevin Ruiz Espitia, Alejandro Santiago Caballero, Leonel Triana Martínez
 
-
 ## Recordatorio del problema
 
 Un estudiante universitario con una idea de innovación, o que busca unirse a un proyecto existente, necesita un ecosistema que le ofrezca visibilidad, conexión con equipos multidisciplinarios, acompañamiento y estructura para sostener el compromiso a lo largo del tiempo, porque el sistema actual no le da un camino claro desde la idea hasta el proyecto sostenible, los equipos se disuelven silenciosamente cuando desaparece la presión externa y el trabajo acumulado se pierde por falta de un repositorio común.
-
 
 ## Pregunta guía
 
@@ -19,7 +17,6 @@ Completen esta estructura:
 `¿Cómo podríamos...?`
 
 **¿Cómo podríamos ofrecer un ecosistema que permita a los estudiantes publicar ideas, formar equipos multidisciplinarios y sostener proyectos de innovación más allá de la fase inicial, reduciendo la deserción silenciosa y la pérdida de trabajo acumulado?**
-
 
 ## Flujos posibles de la aplicación
 
@@ -51,11 +48,15 @@ Seleccionen entre 2 y 4 flujos para trabajar esta semana.
 
 ### Flujo 1
 
-**Nombre del flujo:**
+**Nombre del flujo:** Publicar y explorar ideas
 
 **¿Qué quiere lograr el usuario en este flujo?**
 
+El usuario quiere dar visibilidad a su idea y encontrar proyectos existentes a los que pueda unirse. Quiere que su idea sea vista por otros estudiantes interesados y que pueda recibir retroalimentación o solicitudes de colaboración.
+
 **¿Por qué este flujo es importante?**
+
+Es el punto de entrada al ecosistema. Sin visibilidad, las ideas quedan aisladas y nunca encuentran los colaboradores que necesitan. Este flujo aborda el hallazgo de Jeison A. y Ana María A.: "no encuentro espacios para publicar mi idea ni oportunidades para participar".
 
 ### Flujo 2
 
