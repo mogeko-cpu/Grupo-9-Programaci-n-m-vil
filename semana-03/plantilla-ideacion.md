@@ -80,7 +80,7 @@ El equipo quiere definir roles explícitos, establecer entregas con fecha, distr
 
 **¿Por qué este flujo es importante?**
 
-Es el flujo que sostiene el proyecto después del inicio. Aborda el hallazgo más crítico de Alvaro A.: "el proyecto no se cerró, simplemente dejamos de escribir en el grupo". Sin estructura, los equipos se disuelven silenciosamente, el trabajo se pierde y no hay aprendizaje del fracaso. Este flujo proporciona la columna vertebral que mantiene vivo el proyecto más allá de la fase inicial.
+Es el flujo que sostiene el proyecto después del inicio. Aborda el hallazgo más crítico de Adriana N.: "el proyecto no se cerró, simplemente dejamos de escribir en el grupo". Sin estructura, los equipos se disuelven silenciosamente, el trabajo se pierde y no hay aprendizaje del fracaso. Este flujo proporciona la columna vertebral que mantiene vivo el proyecto más allá de la fase inicial.
 
 ### Flujo 4
 
