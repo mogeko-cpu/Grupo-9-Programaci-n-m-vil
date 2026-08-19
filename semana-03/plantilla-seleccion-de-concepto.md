@@ -12,11 +12,15 @@ Registren los flujos que el equipo decidió trabajar esta semana.
 
 ### Flujo 1
 
-**Nombre del flujo:**
+**Nombre del flujo:** Publicar y explorar ideas
 
 **¿Por qué merece prioridad?**
 
+Es el flujo de entrada al ecosistema. Sin visibilidad, las ideas mueren en el aislamiento. Este flujo permite que los estudiantes encuentren oportunidades de participación y que las ideas encuentren a sus colaboradores. Aborda directamente el hallazgo de Jeison A.: "no he encontrado espacios ni recursos para llevarlas a cabo".
+
 **¿Qué pasaría si este flujo no funciona bien?**
+
+Las ideas permanecerían ocultas, los estudiantes no encontrarían proyectos a los que unirse, y el ecosistema perdería su función de conexión. La plataforma se vaciaría de contenido y participación.
 
 ### Flujo 2
 
@@ -70,7 +74,6 @@ Expliquen brevemente:
 
 - **Viabilidad técnica:** Los cuatro flujos son técnicamente viables con herramientas de desarrollo web estándar. La complejidad principal está en el diseño de experiencia de usuario, no en la tecnología.
 
-
 ## Validación exploratoria por flujo
 
 ¿Con quién validaron los prototipos de baja resolución?
@@ -88,16 +91,15 @@ Expliquen brevemente:
 
 **¿Qué aprendieron al comparar las dos versiones de este flujo?**
 
-- 
+- La Versión A (lista con filtros) fue percibida como más rápida y directa, pero algunos usuarios sintieron que "se pierden ideas interesantes al no ver detalles desde el inicio".
 
-- 
+- La Versión B (tarjetas con vista previa) generó más interés en explorar ideas, pero los usuarios señalaron que "hay demasiada información de golpe y no sé por dónde empezar".
 
-- 
+- Ambos grupos coincidieron en que el filtro por categorías y habilidades es esencial; sin eso, ninguna versión funciona bien.
 
 **¿Qué versión pasa a la semana 4?**
 
 - Versión A
-- Versión B
 
 ### Flujo 2
 
@@ -117,13 +119,11 @@ Expliquen brevemente:
 
 **¿Qué aprendieron al comparar las dos versiones de este flujo?**
 
-- 
+-
 
-- 
+-
 
-- 
-
-**¿Qué versión pasa a la semana 4?**
+- **¿Qué versión pasa a la semana 4?**
 
 - Versión A
 - Versión B
@@ -158,11 +158,15 @@ Expliquen brevemente:
 
 ¿Qué cosas siguen sin estar claras y deben validarse mejor en la semana 4?
 
-- 
+- ¿Cómo se comportará el flujo 3 con equipos reales en funcionamiento? La validación fue con prototipos, no con equipos activos.
 
-- 
+- ¿El cuestionario del flujo 4 es suficientemente corto? Algunos usuarios expresaron preocupación por la extensión.
 
-- 
+- ¿Cómo se integran los cuatro flujos en una experiencia unificada? La semana 4 deberá abordar la navegación global y la consistencia entre flujos.
+
+- ¿Qué incentivos harán que los estudiantes usen la plataforma de manera sostenida? Este es un riesgo que no se ha validado todavía.
+
+- ¿Cómo se gestiona la discontinuidad al final del semestre para los aliados externos? Los prototipos de esta semana no abordaron este aspecto.
 
 ## Hipótesis iniciales para la semana 4
 
