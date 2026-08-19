@@ -71,11 +71,15 @@ Aborda el hallazgo recurrente de que los estudiantes solo forman equipos con per
 
 ### Flujo 3
 
-**Nombre del flujo:**
+**Nombre del flujo:** Estructurar y gestionar el proyecto
 
 **¿Qué quiere lograr el usuario en este flujo?**
 
+El equipo quiere definir roles explícitos, establecer entregas con fecha, distribuir tareas de manera equitativa, registrar el avance del proyecto y mantener un repositorio común donde el trabajo no dependa del computador personal de un integrante.
+
 **¿Por qué este flujo es importante?**
+
+Es el flujo que sostiene el proyecto después del inicio. Aborda el hallazgo más crítico de Andrés P.: "el proyecto no se cerró, simplemente dejamos de escribir en el grupo". Sin estructura, los equipos se disuelven silenciosamente, el trabajo se pierde y no hay aprendizaje del fracaso. Este flujo proporciona la columna vertebral que mantiene vivo el proyecto más allá de la fase inicial.
 
 ### Flujo 4
 
