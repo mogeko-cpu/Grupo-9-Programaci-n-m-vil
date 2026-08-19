@@ -115,18 +115,29 @@ Expliquen brevemente:
 
 ### Flujo 3
 
+**Nombre del flujo:** Estructurar y gestionar el proyecto
+
+**¿Por qué merece prioridad?**
+
+Es el flujo que sostiene el proyecto después del inicio. Aborda el hallazgo más crítico de Adriana N.: "el proyecto no se cerró, simplemente dejamos de escribir en el grupo". Sin estructura, los equipos se disuelven silenciosamente, el trabajo se pierde y no hay aprendizaje del fracaso. Este flujo proporciona la columna vertebral que mantiene vivo el proyecto más allá de la fase inicial.
+
+**¿Qué pasaría si este flujo no funciona bien?**
+
+Los equipos continuarían disolviéndose por falta de roles, entregas y visibilidad del aporte. El trabajo acumulado se perdería por falta de un repositorio común, y el aprendizaje del fracaso sería imposible. Los estudiantes seguirían experimentando la frustración de ver sus proyectos morir silenciosamente sin entender por qué.
+
+---
+
 **¿Qué aprendieron al comparar las dos versiones de este flujo?**
 
-- 
+- La Versión A (estructura simple: roles + tareas + fechas) fue considerada "realista y fácil de empezar" por los usuarios. La validación mostró que los equipos en fases iniciales necesitan una estructura sencilla para no sentirse abrumados.
 
-- 
+- La Versión B (estructura más detallada: roles + tareas + fechas + entregables + reporte de avance + tablero de progreso) generó dos reacciones opuestas: algunos la valoraron como "más completa y profesional", otros dijeron que "es demasiado para un equipo que apenas está empezando".
 
-- 
+- El equipo aprendió que los equipos en fases iniciales necesitan una estructura mínima para empezar, pero que la solución debe permitir agregar complejidad gradualmente a medida que el proyecto avanza. La prioridad es la adopción temprana; empezar simple es clave para que los equipos usen la herramienta sin resistencia.
 
 **¿Qué versión pasa a la semana 4?**
 
 - Versión A
-- Versión B
 
 ### Flujo 4
 
