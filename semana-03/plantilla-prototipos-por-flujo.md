@@ -269,9 +269,9 @@ El equipo quiere solicitar acompañamiento de un mentor o experto para recibir o
 
 ### Evidencia en Figma
 
-**Enlace versión A:** [Enlace a Figma - Versión A]
+**Enlace versión A:** https://www.figma.com/make/i2k9jbOToJOcMcyGLgYJQ5/Prototipo-m%C3%B3vil-de-mentor%C3%ADa?code-node-id=0-9&p=f&t=ioA7PrZ5rJAsyIOx-0&fullscreen=1
 
-**Enlace versión B:** [Enlace a Figma - Versión B]
+**Enlace versión B:** https://www.figma.com/make/CANgKTKkA9P929M7n4Zr2S/Wireframe-app-de-mentor%C3%ADa?code-node-id=0-9&p=f&t=9viPhgSEtPq4YTld-0&fullscreen=1
 
 ### Resultado de la validación exploratoria
 
