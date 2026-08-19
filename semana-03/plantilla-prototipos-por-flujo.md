@@ -17,69 +17,70 @@
 
 **¿Qué quiere lograr el usuario en este flujo?**
 
-El usuario quiere encontrar proyectos de innovación que sean de su interés, conocer sus características y requisitos, y solicitar unirse a uno en el que pueda aportar sus habilidades.
+El usuario quiere dar visibilidad a su idea (publicar) o encontrar proyectos existentes a los que pueda unirse (explorar). Quiere que su idea sea vista por otros estudiantes interesados y recibir solicitudes de colaboración, o descubrir oportunidades que se alineen con sus intereses y habilidades.
 
 ### Versión A: paso a paso
 
-1. El usuario entra a la sección de exploración de proyectos y visualiza las iniciativas disponibles.
-2. Luego utiliza la búsqueda o los filtros para encontrar proyectos relacionados con sus intereses, carrera o habilidades.
-3. Después selecciona un proyecto y revisa su información, objetivos, integrantes y perfiles que necesita.
-4. Finalmente, selecciona la opción para solicitar unirse y envía una breve descripción sobre cómo puede aportar al proyecto.
+1. El usuario ingresa a la sección "Explorar ideas".
+2. Ve una lista de ideas con título, categoría y nombre del creador.
+3. Puede aplicar filtros por categoría, estado o habilidades requeridas.
+4. Al hacer clic en una idea, ve los detalles completos y puede expresar interés.
 
 ### Versión A: pantallas o momentos clave
 
-1. **Explorar proyectos:** pantalla principal con proyectos disponibles, búsqueda y filtros.
-2. **Resultados de búsqueda:** listado de proyectos que coinciden con los criterios seleccionados.
-3. **Detalles del proyecto:** información sobre el problema, objetivo, estado, integrantes y habilidades requeridas.
-4. **Solicitud para unirse:** espacio donde el estudiante explica su posible aporte y envía la solicitud.
+1. Pantalla de inicio con lista de ideas.
+2. Barra de filtros desplegable.
+3. Vista de detalle de una idea.
+4. Botón "Expresar interés" en la vista de detalle.
 
 ### Versión B: paso a paso
 
-1. El usuario entra a una sección llamada **Proyectos para ti**.
-2. Luego visualiza proyectos recomendados según sus intereses, habilidades o área de estudio.
-3. Después selecciona una recomendación para conocer los detalles del proyecto y la razón por la cual es compatible con su perfil.
-4. Finalmente, indica que está interesado y envía una solicitud para participar.
+1. El usuario ingresa a la sección "Explorar ideas".
+2. Ve tarjetas con vista previa de cada idea (título, categoría, una frase descriptiva, creador y número de colaboradores).
+3. Puede aplicar filtros por categoría, estado o habilidades requeridas.
+4. Al hacer clic en una tarjeta, se expande con más detalles y el botón para expresar interés.
 
 ### Versión B: pantallas o momentos clave
 
-1. **Proyectos para ti:** pantalla con proyectos recomendados según el perfil del estudiante.
-2. **Proyecto recomendado:** tarjeta destacada con información básica y una explicación de compatibilidad.
-3. **Detalles y compatibilidad:** información completa del proyecto y explicación de por qué fue recomendado.
-4. **Mostrar interés:** formulario breve para indicar cómo el estudiante puede aportar.
+1. Pantalla de inicio con tarjetas de ideas.
+2. Barra de filtros visible permanentemente.
+3. Tarjeta expandida con más detalles.
+4. Botón "Expresar interés" en la tarjeta expandida.
 
 ### Evidencia en Figma
 
-**Enlace versión A:** https://www.figma.com/design/QqasS35ihxFAXFR5uZ8WZg/Version-A-Flujo-1?t=9eRmSwgMS3GbJTnb-1
+**Enlace versión A:**: https://www.figma.com/design/pNxCpO7vamWNAsoJvt2lQh/Publicar-y-explorar-ideas-Version-A?node-id=0-1&t=nWIE6Qwd2rOvmsj2-1
 
-**Enlace versión B:** https://www.figma.com/design/thu7QYxKHAapbhhkIZrgUM/Untitled?node-id=0-1&t=9eRmSwgMS3GbJTnb-1
+**Enlace versión B:** https://www.figma.com/design/aE1ZFfh4bv5HFj90Pzhhte/Publicar-y-explorar-ideas-Version-B?t=nWIE6Qwd2rOvmsj2-1
 
 ### Resultado de la validación exploratoria
 
 **¿Con quién se probó este flujo?**
 
-Se probo con un estudiante universitario interesado en entrar a proyectos de innovacion.
+Andrés P. (estudiante con experiencia en proyectos que fracasaron) y Jeison A. (estudiante sin experiencia en innovación).
 
 **¿Qué reacción generó la versión A?**
 
-- La persona comprendió rápidamente que los filtros servían para encontrar proyectos específicos.
-- Consideró útil poder controlar los criterios de búsqueda.
-- El recorrido desde la búsqueda hasta los detalles del proyecto resultó claro.
+- "Es rápida y directa, puedo ver muchas ideas de una vez."
+- "Me preocupa perder ideas interesantes si solo veo el título."
+- "Los filtros son útiles, pero el resto de la información no se ve hasta que entro."
 
-- **¿Qué reacción generó la versión B?**
+**¿Qué reacción generó la versión B?**
 
-- La idea de recibir recomendaciones resultó atractiva.
-  Sin embargo, la persona manifestó que quería tener mayor control sobre los proyectos que aparecen.
-- El criterio por el cual se recomendaba cada proyecto no fue tan evidente.
+- "Me gusta la vista previa, me da más contexto antes de decidir si entro."
+- "Hay demasiada información de golpe, no sé por dónde empezar."
+- "La barra de filtros siempre visible es útil."
 
 ### Versión seleccionada para la semana 4
 
-**Versión elegida:** A
+**Versión elegida:** Versión A
 
 **¿Por qué?**
 
-- Permite al usuario controlar directamente la búsqueda.
-- Los filtros facilitan encontrar proyectos según intereses específicos.
-- El recorrido resulta más predecible y fácil de comprender.
+- Los usuarios priorizaron la rapidez y claridad sobre la abundancia de información inicial.
+- La Versión A permite recorrer más ideas en menos tiempo, lo cual es clave para usuarios que exploran opciones.
+- Los filtros son la funcionalidad más valorada; en la Versión A son igual de efectivos que en la B.
+- La falta de vista previa puede compensarse con un título más descriptivo o una etiqueta de categoría visible.
 
 ## Flujo 2
 
