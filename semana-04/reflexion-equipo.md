@@ -30,21 +30,37 @@ La parte más difícil fue representar la gestión y evolución de un proyecto d
 
 ¿Qué dudas esperan resolver en la prueba con usuarios?
 
--
+- Si la transición entre flujos se entiende sin explicación: no sabemos si el
+  usuario comprende la transición al aceptar una idea o si necesita un aviso para
+  entender
 
--
+- Si el espacio de trabajo es suficiente o excesivo: no sabemos si miembros,
+  roles, tareas, fechas y avance son lo que un equipo real necesita, o si
+  sobran secciones que no aportan valor y esconden lo importante.
 
-- ***
+- Qué motiva realmente a publicar una idea: no sabemos si el estudiante está
+  dispuesto a exponer una idea propia en una plataforma abierta, ni si el
+  formulario que diseñamos le pide demasiado (o muy poco) para animarse.
+
+- Si el cuestionario guiado genera confianza o desconfianza: no sabemos si los
+  usuarios creen en la recomendación de mentores que sale de 4 preguntas, o si
+  la perciben como arbitraria.
 
 ## Riesgos del prototipo actual
 
 ¿Qué podría hacer que los resultados de la prueba sean confusos o poco útiles?
 
--
+- Los datos actuales no son reales sino de ejemplo y sencillos el usuario puede
+  interpretar que el prototipo tiene poco contenido.
+  
+- Cada usuario tiene varios papeles a la vez: en la misma sesión es quien
+  publica, quien pide unirse y quien acepta solicitudes. Eso puede hacer que
+  confunda qué pantallas le corresponden a cada rol, y sus comentarios
+  quedarían mezclados.
 
--
-
-- ***
+- Muestra pequeña y cercana: con 5 personas y en su mayoría del propio entorno
+  universitario del equipo, hay riesgo de complacencia; frases como "esto es
+  justo lo que necesitaba" pueden reflejar cortesía y no intención de uso.
 
 ## Conclusión del equipo
 
