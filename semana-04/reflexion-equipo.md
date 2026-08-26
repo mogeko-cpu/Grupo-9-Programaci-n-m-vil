@@ -2,21 +2,19 @@
 
 ## Información del equipo
 
-**Nombre del equipo:**
+**Nombre del equipo:** Grupo 9
 
-**Integrantes:**
-
----
+**Integrantes:** Sebastián González Quintanilla, Kevin Ruiz Espitia, Alejandro Santiago Caballero, Leonel Triana Martínez
 
 ## Decisiones tomadas
 
 ¿Qué decisiones importantes tomaron al construir el prototipo?
 
-- 
+-
 
-- 
+-
 
-- 
+-
 
 ---
 
@@ -30,11 +28,11 @@
 
 ¿Qué dudas esperan resolver en la prueba con usuarios?
 
-- 
+-
 
-- 
+-
 
-- 
+-
 
 ---
 
@@ -42,11 +40,11 @@
 
 ¿Qué podría hacer que los resultados de la prueba sean confusos o poco útiles?
 
-- 
+-
 
-- 
+-
 
-- 
+-
 
 ---
 
