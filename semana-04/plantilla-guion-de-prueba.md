@@ -54,13 +54,12 @@ Escriban entre 3 y 5 tareas o preguntas para la sesión.
 
 ¿Qué señales les mostrarán si la propuesta se entiende o no?
 
-- 
-
-- 
-
-- 
-
----
+- Si el usuario completa las tareas sin pedir ayuda o instrucciones adicionales.
+- Si el usuario hace clic en elementos que no son interactivos (confusión).
+- Si el usuario se queda "bloqueado" en alguna pantalla sin saber qué hacer.
+- Si el usuario expresa frases como "esto es útil" o "esto es confuso".
+- El tiempo que tarda en completar cada tarea.
+- Si el usuario intenta hacer algo que el prototipo no soporta (expectativa no cumplida).
 
 ## Evidencia a recoger
 
