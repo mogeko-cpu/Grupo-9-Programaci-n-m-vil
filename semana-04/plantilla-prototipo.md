@@ -131,3 +131,29 @@ Si usan algún apoyo adicional, indíquenlo aquí:
 - Los usuarios podrán completar el flujo completo sin ayuda externa.
 
 - Los usuarios expresarán que "esto es lo que necesitaba" o "por qué no existía antes".
+
+## Evidencia en Figma
+
+Peguen aquí el enlace al archivo o prototipo de Figma:
+
+**Enlace:** https://www.figma.com/design/wABQnDKbG2XWbohKfxQneL/Prototipo_Flujos_Integrados?node-id=0-1&t=O52OlbmTuurSwKIC-1
+
+¿Qué puede recorrer o ver una persona dentro de ese prototipo?
+
+- Pantalla de inicio con navegación principal.
+
+- Exploración y detalle de ideas.
+
+- Publicación de una nueva idea.
+
+- Solicitud de unión a un proyecto.
+
+- Gestión de solicitudes como creador.
+
+- Espacio de trabajo del proyecto con todas sus secciones.
+
+- Registro de avance en una tarea.
+
+- Solicitud de mentoría con cuestionario guiado.
+
+- Exploración de retos externos.
