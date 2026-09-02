@@ -35,10 +35,11 @@ Validar de manera progresiva nos permitió detectar problemas antes de invertir 
 
 ¿Cuál es la decisión más importante que toma el equipo después de esta etapa?
 
+La decisión más importante que toma el equipo es **mantener la estructura general de los cuatro flujos integrados y dedicar la siguiente iteración a resolver las señales de estado pendientes** (notificaciones simuladas, cuestionario de mentoría más ágil) antes de pasar a una implementación funcional. No se replantea el enfoque del problema ni la arquitectura de la solución.
+
+
 ---
 
 ## Conclusión final
 
-Escriban un párrafo de 8 a 12 líneas respondiendo esta pregunta:
-
-`¿Qué aprendió el equipo sobre diseñar una solución real antes de empezar a implementarla con más fuerza?`
+Después de cinco semanas, el aprendizaje más importante del equipo es que diseñar una solución real no se trata solo de construir pantallas que muestren funcionalidades, sino de construir un recorrido que le dé certeza al usuario en cada paso. Empezamos preguntándonos cómo dar visibilidad a las ideas de los estudiantes, y terminamos entendiendo que el verdadero reto está en las transiciones entre momentos del proceso: unirse a un equipo, ser aceptado, empezar a trabajar, pedir ayuda. Validar en etapas —primero exploratorio, luego integrado, luego iterado— nos permitió detectar justo esos puntos de quiebre en lugar de asumir que estaban resueltos. También aprendimos que muchas veces la solución a un problema de usabilidad no es una función nueva, sino una señal más clara de lo que ya existe. Llegamos a esta etapa con la confianza de que la estructura general funciona, pero con la humildad de saber que todavía hay ajustes de diseño pendientes antes de invertir en construir una versión funcional real.
